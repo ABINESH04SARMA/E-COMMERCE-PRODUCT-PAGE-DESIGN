@@ -14,7 +14,7 @@
 
 # ENTER DESCRIPTON OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
-The image represents an e-commerce product page design, specifically for a sports and lifestyle retail website, resembling Decathlon. The layout is designed to provide a user-friendly shopping experience, featuring intuitive navigation, product categories, promotional banners, and essential shopping functionalities like search, cart, and wishlist. This design follows best practices in e-commerce UI/UX, focusing on clear product categorization, visual hierarchy, and promotional offers to enhance user engagement and drive sales.
+An e-commerce product page design, specifically for a sports and lifestyle retail website, resembling Decathlon. The layout is designed to provide a user-friendly shopping experience, featuring intuitive navigation, product categories, promotional banners, and essential shopping functionalities like search, cart, and wishlist. This design follows best practices in e-commerce UI/UX, focusing on clear product categorization, visual hierarchy, and promotional offers to enhance user engagement and drive sales.
 
 # OUTPUT OF THE TASK
 
